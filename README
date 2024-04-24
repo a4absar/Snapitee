@@ -1,0 +1,41 @@
+# Snapitee
+
+Snapitee is a core PHP-based eCommerce website where users can browse and purchase a variety of products.
+
+## Features
+- User authentication
+- Product browsing and search
+- Cart management
+- Checkout process
+- Order history tracking
+- Mastercard Merchant Integration
+
+## Technologies Used
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+1. Clone the repository.
+2. Install dependencies using Composer.
+3. Create a MySQL database and import the schema from `database.sql`.
+4. Configure the database connection in `admin/incudes/.env`.
+5. Run the application using a local server (e.g., Apache, Nginx).
+
+## Usage
+1. Navigate to the homepage.
+2. Browse products by category or search for specific items.
+3. Add products to your cart and proceed to checkout.
+4. Complete the checkout process by providing shipping and payment information.
+
+
+## Contributing
+Contributions are welcome! Please submit bug reports, feature requests, or pull requests via GitHub.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+For inquiries or assistance, contact [absar6@gmail.com].
